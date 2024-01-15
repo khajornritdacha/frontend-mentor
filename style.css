@@ -69,6 +69,11 @@ body {
   width: 300px;
   height: min-content;
   margin: auto;
+  cursor: pointer;
+}
+
+.card-container:hover .card-title {
+  color: var(--primary);
 }
 
 .card-hero {
