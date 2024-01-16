@@ -63,6 +63,10 @@ Users should be able to:
    }
    ```
 
+4. There should be exactly one h1 element in a page and h1 refers to the most important to h6 as the least important.
+
+5. All content in the page(all texts) should be contained within landmarks including header, main, footer, nav, etc.
+
 ### Continued development
 
 I want to enhance responsiveness of this site by changing font size or the width of the card.
